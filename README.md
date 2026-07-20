@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 14 | 16 |
+| 15 | 16 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [brute force](#brute-force) (5)
 - [constructive algorithms](#constructive-algorithms) (2)
 - [dfs and similar](#dfs-and-similar) (1)
-- [dp](#dp) (2)
+- [dp](#dp) (3)
 - [expression parsing](#expression-parsing) (1)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (1)
@@ -27,7 +27,7 @@
 - [number theory](#number-theory) (1)
 - [schedules](#schedules) (1)
 - [sortings](#sortings) (2)
-- [strings](#strings) (2)
+- [strings](#strings) (3)
 
 ---
 
@@ -74,6 +74,7 @@
 |---|---------|------------|----------|
 | 2184C | [Huge Pile](https://codeforces.com/contest/2184/problem/C) | 1100 | [Java 21](https://github.com/DanishBasha/leetcode-solutions/blob/HEAD/2184/C%20-%20Huge%20Pile/solution.java) |
 | 2202B | [ABAB Construction](https://codeforces.com/contest/2202/problem/B) | 1200 | [Java 21](https://github.com/DanishBasha/leetcode-solutions/blob/HEAD/2202/B%20-%20ABAB%20Construction/solution.java) |
+| 2242D | [Two Digit Strings](https://codeforces.com/contest/2242/problem/D) | 1600 | [Java 21](https://github.com/DanishBasha/leetcode-solutions/blob/HEAD/2242/D%20-%20Two%20Digit%20Strings/solution.java) |
 
 ### expression parsing
 
@@ -148,6 +149,7 @@
 |---|---------|------------|----------|
 | 2200C | [Specialty String](https://codeforces.com/contest/2200/problem/C) | 900 | [Java 21](https://github.com/DanishBasha/leetcode-solutions/blob/HEAD/2200/C%20-%20Specialty%20String/solution.java) |
 | 2214B | [Are You Smiling?](https://codeforces.com/contest/2214/problem/B) | Unrated | [Java 21](https://github.com/DanishBasha/leetcode-solutions/blob/HEAD/2214/B%20-%20Are%20You%20Smiling%3F/solution.java) |
+| 2242D | [Two Digit Strings](https://codeforces.com/contest/2242/problem/D) | 1600 | [Java 21](https://github.com/DanishBasha/leetcode-solutions/blob/HEAD/2242/D%20-%20Two%20Digit%20Strings/solution.java) |
 
 ---
 
